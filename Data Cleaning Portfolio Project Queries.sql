@@ -1,27 +1,4 @@
--- CREATE TABLE sql_tutorial.housing_data(
--- UniqueID int,
--- ParcelID varchar(50),
--- LandUse varchar(50),
--- PropertyAddress varchar(100),
--- SaleDate varchar(50),
--- SalePrice int,
--- LegalReference varchar(50),
--- SoldAsVacant varchar(5),
--- OwnerName varchar(100),
--- OwnerAddress varchar(100),
--- Acreage double,
--- TaxDistrict varchar(100),
--- LandValue int,
--- BuildingValue int,
--- TotalValue int,
--- YearBuilt int,
--- Bedrooms int,
--- FullBath int,
--- HalfBath int
 
--- );
-use sql_tutorial;
-select * from housing_data;
 /* 
 cleaning data in sql queries
 */
